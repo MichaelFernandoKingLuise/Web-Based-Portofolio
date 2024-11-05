@@ -1,1 +1,1 @@
-A web-based portfolio developed using HTML and CSS, designed to showcase personal and information. This portfolio features a clean, modern layout that emphasizes simplicity and user experience, providing a straightforward way to navigate through the information
+A web-based portfolio developed using HTML and CSS, designed to showcase personal and information. This portfolio features a clean, modern layout that emphasizes simplicity and user experience, providing a straightforward way to navigate through the information.
